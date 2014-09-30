@@ -1,0 +1,1 @@
+<div id="footer">&copy; Designed by Title</div>

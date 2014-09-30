@@ -1,0 +1,5 @@
+[12-Aug-2011 20:51:20] PHP Fatal error:  Class 'paging' not found in /home/whitedr3/public_html/td-admin/modules/category_management/manage_ad_specifications.php on line 2
+[12-Aug-2011 20:54:17] PHP Fatal error:  Class 'categories' not found in /home/whitedr3/public_html/td-admin/modules/category_management/add_category.php on line 2
+[12-Aug-2011 20:55:21] PHP Fatal error:  Class 'categories' not found in /home/whitedr3/public_html/td-admin/modules/category_management/add_child_category.php on line 2
+[12-Aug-2011 20:56:04] PHP Fatal error:  Class 'paging' not found in /home/whitedr3/public_html/td-admin/modules/category_management/manage_child_categories.php on line 2
+[12-Aug-2011 20:56:25] PHP Fatal error:  Call to a member function getSingleRecord() on a non-object in /home/whitedr3/public_html/td-admin/modules/category_management/category_management.php on line 3

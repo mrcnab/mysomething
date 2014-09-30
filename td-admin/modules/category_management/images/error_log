@@ -1,0 +1,1 @@
+[13-Feb-2011 18:21:31] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 623 bytes) in /home/whitedr3/public_html/td-admin/modules/category_management/images/1297641038c99.php on line 2064

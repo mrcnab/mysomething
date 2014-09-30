@@ -1,0 +1,90 @@
+﻿/*##########################################################################################################*/
+/*	                                   				G E N E R A L                                           */
+/*##########################################################################################################*/
+/*     <div id=""></div><!-- enddiv: # -->     */
+
+body table tr td {font:12px Arial, Helvetica, sans-serif; vertical-align:top}
+* body, div, dl, dt, dd, ul, ol, li, h1, h2, h4, h5, h6, pre, form, fieldset, input, p, blockquote, th, td 
+	{ font-family: Verdana, Arial, Helvetica, sans-serif;}
+h1, h2, h3, h4, h5, h6 { margin: 0; padding: 0; }
+img {border:none;padding:0;margin:0;text-decoration:none;}
+p { padding:0;margin:0; line-height:1.5em;}
+a:link, a:visited, a:hover, a:active  {color: #333333;text-decoration:underline; cursor:pointer; }
+.hidden {visibility:hidden;}
+.clear {clear: both;height: 0;line-height: 0.0;font-size: 0;}
+.clearfix:after { content:"."; display:block; height:0; clear:both; visibility:hidden;}
+body { background:#fff url(../images/p7_page.jpg) no-repeat top center; color:#333; margin: 0; padding:0; font-family: Verdana, Tahoma, Arial; font-size:12px;}
+.clear-left { clear:left; display:block; text-align:left;}
+.buff { clear:left; margin:0; padding:0; height:7px; width:100%; display:inline-block;}
+
+
+#p-container { width:970px; clear:both; margin:0px auto;}
+
+/*-------------------- header ----------------------*/
+#p-header { clear:both; width:100%; height:130px; background:url(../images/mask.png);}
+
+/*-------------------- content ----------------------*/
+#p-content { clear:both; width:100%; height:1650px;}
+#p-left { float:left; width:240px; height:600px; background:url(../images/mask.png);}
+#p-right { float:left; width:715px; padding-left:15px; padding-top:15px;}
+
+
+/*-------------------- start ReOrder Page ----------------------*/
+
+#p7-reorder { clear:both; width:99%; border:solid 1px #d0d0d1;}
+
+#p7-ro-wel { display:block; height:150px; background:url(../images/p7_bg1.gif) repeat-x bottom left;}
+#p7-ro-wel h2 { display:block; font-size:24px; text-align:center; font-weight:normal; padding-top:15px;}
+#p7-ro-wel h2 span { color:#da0412;}
+#p7-ro-wel p { padding:10px 20px;}
+
+.p7-ro-line { clear:left; width:100%;}
+.p7-ro-line h4 { display:block; height:35px; background:url(../images/p7_bg2.gif) repeat-x top left; position:relative; padding:10px 0px 0px 20px;}
+.p7-ro-line h4 span { display:block; height:17px; width:19px; background:#e2040f url(../images/p7_red.gif) no-repeat top left; position:absolute; top:10px; right:10px; color:#fff; font-size:12px; text-align:center; padding-top:2px;}
+.p7-ro-line p { padding:5px 20px;}
+.p7-ro-3cols { float:left; display:inline-block; width:33%;}
+.p7-ro-3cols input.p7text, .p7-ro-3cols select { width:200px;}
+textarea { font-family: Verdana, Arial, Helvetica, sans-serif; font-size:12px; padding:5px;}
+.p7-ro-label { display:inline-block; width:70px;}
+.p7-ro-submit { display:block; height:60px; background:url(../images/p7_bg3.gif) repeat-x top left; text-align:center; padding-top:17px;}
+
+/*-------------------- end ReOrder Page ----------------------*/
+
+
+#p-success-header { clear:both; border:solid 1px #ccc; padding:20px; position:relative;}
+#p-success-header img { position:absolute; top:20px; right:20px;}
+#p-success-header hr { border:solid 1px #fff; border-bottom:solid 1px #ccc;}
+#p-success-header h2 { font-size:24px;}
+.sc-order-no { display:block; padding:7px 20px; font-size:18px; background:#ccc; width:150px; text-align:center;}
+#p-success-header table { width:100%; border-collapse:collapse;}
+#p-success-header table tr td { padding:3px;}
+.sc-label { font-weight:bold;}
+.sc-label a, .sc-label a:link, .sc-label:visited { text-decoration:none;}
+.sc-label a:hover { color:Red;}
+.sc-item-no { font-style:italic; font-size:smaller;}
+
+#p-success-items { clear:both; padding-top:20px;}
+#p-success-items table { width:100%; border-collapse:collapse;}
+#p-success-items th { background:#696c6f url(../images/sc_th.gif) repeat-x bottom left; color:#fff; padding:20px 0px 5px 20px; text-align:left;}
+#p-success-items td { padding:5px 5px 5px 20px; background:url(../images/sc_td.gif) repeat-x bottom left;}
+.sc-total td { font-weight:bold; background:#d6d5d5 !important; border-top:solid 1px #fff; color:#000;}
+
+#p-success-note { clear:both; padding:20px 0px;}
+#p-success-note p { padding:2px 0px;}
+
+#p-success-control { float:right; padding-top:20px;}
+#p-success-control a, #p-success-control a:link, #p-success-control a:visited { display:block; padding:5px 0px; background:url(../images/sc_button.gif) no-repeat; width:115px; height:18px; text-decoration:none; text-align:center; font-weight:bold; color:#000;}
+#p-success-control a:hover { background-position:0px -28px;}
+
+
+/*-------------------- start Print Page ----------------------*/
+
+#print-success-items { clear:both; padding-top:20px;}
+#print-success-items table { width:100%; border-collapse:collapse;}
+#print-success-items th { background:#666; color:#fff; padding:20px 0px 5px 20px; text-align:left;}
+#print-success-items td { padding:5px 5px 5px 20px; border-bottom:solid 1px #c1c1c1;}
+
+#print-success-note { clear:both; padding:20px 0px; font-size:11px;}
+#print-success-note p { padding:2px 0px;}
+
+#print-header { height:64px; width:750px; margin:10px auto; background:#a80312;}

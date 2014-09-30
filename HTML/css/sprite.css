@@ -1,0 +1,17 @@
+@charset "utf-8";
+/* CSS Document */
+/*------------------Start Sprite Classes------------------*/
+
+.sprite-bnr-bg{ background-position: 0 0; width: 548px; height: 239px; } 
+/*.sprite-cat-btm{ background-position: 0 -289px; width: 214px; height: 5px; } 
+.sprite-cat-top{ background-position: 0 -344px; width: 214px; height: 5px; } */
+/*.sprite-ftr-bg{ background-position: 0 -399px; width: 981px; height: 163px; } */
+/*.sprite-hdr-sep{ background-position: 0 -612px; width: 2px; height: 2px; }*/ 
+/*.sprite-lgn-reg-bg{ background-position: 0 -664px; width: 93px; height: 20px; }*/ 
+/*.sprite-post-ad-btn{ background-position: 0 -734px; width: 184px; height: 29px; } */
+.sprite-prod-bg{ background-position: 0 -813px; width: 111px; height: 101px; } 
+/*.sprite-srch-bg{ background-position: 0 -964px; width: 990px; height: 40px; } */
+.sprite-srch-btn{ background-position: 0 -1054px; width: 84px; height: 29px; } 
+/*.sprite-srch-fld{ background-position: 0 -1133px; width: 391px; height: 25px; } */
+
+/*------------------End Sprite Classes------------------*/

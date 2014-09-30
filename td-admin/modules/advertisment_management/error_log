@@ -1,0 +1,5 @@
+[12-Aug-2011 20:49:40] PHP Fatal error:  Call to a member function getSingleRecord() on a non-object in /home/whitedr3/public_html/td-admin/modules/advertisment_management/advertisment_management.php on line 3
+[12-Aug-2011 20:51:50] PHP Fatal error:  Class 'advertisments' not found in /home/whitedr3/public_html/td-admin/modules/advertisment_management/add_advertisment.php on line 2
+[12-Aug-2011 20:52:31] PHP Warning:  require_once(classes/DBAccess.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/whitedr3/public_html/td-admin/modules/advertisment_management/install.php on line 2
+[12-Aug-2011 20:52:31] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'classes/DBAccess.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/whitedr3/public_html/td-admin/modules/advertisment_management/install.php on line 2
+[12-Aug-2011 20:54:10] PHP Fatal error:  Class 'paging' not found in /home/whitedr3/public_html/td-admin/modules/advertisment_management/manage_advertisments.php on line 2
